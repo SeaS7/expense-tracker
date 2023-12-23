@@ -1,27 +1,27 @@
 const expenses = [
     {
       id: "e1",
-      date: new Date(2023, 11, 16),
-      amount: 4000,
-      title: "Car",
+      date: new Date(2023, 10, 6),
+      amount: 2300,
+      title: "Petrol",
     },
     {
       id: "e2",
-      date: new Date(2023, 10, 16),
-      amount: 8000,
-      title: "Bike",
+      date: new Date(2023, 4, 30),
+      amount: 7800,
+      title: "Food",
     },
     {
       id: "e3",
-      date: new Date(2023, 8, 16),
-      amount: 9000,
-      title: "Room",
+      date: new Date(2023, 11, 23),
+      amount: 3200,
+      title: "Travel",
     },
     {
       id: "e4",
-      date: new Date(2023, 5, 16),
-      amount: 7000,
-      title: "Food",
+      date: new Date(2023, 11, 4),
+      amount: 90000,
+      title: "Mobile",
     },
   ];
 
